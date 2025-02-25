@@ -3,7 +3,7 @@ pipe
  agent any
  stages
   {
-    stage
+    stage( 'i am checkout from git')
     {
       steps
      {
