@@ -7,7 +7,7 @@ pipeline
     {
       steps
      {
-          sh ' https://github.com/RavitejaAdepudi/vasmi.git '
+          sh ' git clone https://github.com/RavitejaAdepudi/vasmi.git '
       }
     }
   }
