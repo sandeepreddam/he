@@ -5,7 +5,8 @@ pipe
   {
     stage
     {
-      steps{
+      steps
+     {
           sh ' http://github.com/RavitejaAdepudi/vasmi.git '
       }
     }
