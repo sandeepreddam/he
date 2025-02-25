@@ -7,7 +7,7 @@ pipeline
     {
       steps
      {
-          sh ' http://github.com/RavitejaAdepudi/vasmi.git '
+          sh ' https://github.com/RavitejaAdepudi/vasmi.git '
       }
     }
   }
