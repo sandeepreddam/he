@@ -7,7 +7,7 @@ pipeline
     {
       steps
      {
-          sh ' git clone https://github.com/RavitejaAdepudi/vamsi ' 
+          sh ' git clone git@github.com:sandeepreddam/city.git ' 
       }
     }
   }
